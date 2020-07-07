@@ -1,5 +1,13 @@
 @font-face { 
     font-family: 'Nafees'; 
-    src: url('https://cdn.jsdelivr.net/gh/waqaraq/jnn@master/nafees-nastaleeq-webfont.woff') format('woff'));  
-    line-height: 1.5; 
+    src: url('https://cdn.jsdelivr.net/gh/waqaraq/jnn@master/nafees-nastaleeq-webfont.woff') format('woff'); 
+    font-weight: normal; 
+    font-style: normal; 
+ line-height: 2; 
 } 
+/** Global Styles **/
+body{ 
+    font-family: 'Jameel Noori Nastaleeq','Nafees'; 
+    font-size:14px; 
+    line-height:14px; 
+    }
