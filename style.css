@@ -1,7 +1,7 @@
 @font-face { 
     font-family: 'Nafees'; 
-    src: url('/s/7qyyswbeoawuy6a/nafees-nastaleeq-webfont.eot'); 
-    src: url('/s/7qyyswbeoawuy6a/nafees-nastaleeq-webfont.eot?#iefix') format('embedded-opentype'), 
+    src: url('https://github.com/waqaraq/jnn/blob/master/nafees-nastaleeq-webfont.eot'); 
+    src: url('https://github.com/waqaraq/jnn/blob/master/nafees-nastaleeq-webfont.eot?#iefix') format('embedded-opentype'), 
          url('/s/4wo2qh2l1c63e9x/nafees-nastaleeq-webfont.woff') format('woff'), 
          url('/s/bktpbp6l3gubfnp/nafees-nastaleeq-webfont.ttf') format('truetype'), 
          url('/s/t4e3xr5dbz8hgc2/nafees-nastaleeq-webfont.svg') format('svg'); 
